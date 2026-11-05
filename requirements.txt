@@ -1,0 +1,2 @@
+# Dependencia externa detectada; el ZIP no fija una versión.
+Pillow

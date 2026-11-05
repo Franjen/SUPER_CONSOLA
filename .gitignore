@@ -1,0 +1,20 @@
+# Credenciales y configuración de cada equipo
+config_igdb.json
+pythonw_ruta.txt
+.env
+.env.*
+!.env.example
+# Archivos regenerables
+cache/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# Juegos y archivos de emuladores (no forman parte del código)
+ROMS/
+roms/
+Emuladores/
+# Salidas de empaquetado
+build/
+dist/
+*.spec
